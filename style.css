@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: black;
+  font-size: 80px;
+  text-align: center;
+  text-shadow: 4px 4px lightgray;  
+}
+
+h6 {
+  color: black;
+  font-size: 30px;
+  text-shadow: 1.5px 1.5px lightgray;
+}
+
+#l1 {
+  float: right;
+}
+
+#header1, #header2, #header3 {
+  color: black;
+  font-size: 30px;
+  text-shadow: 1.5px 1.5px lightgray;
+}
+
+#enter {
+  background-color: #CC0000;
+}
+
+#check_it_out {
+  font-size: 20px;
+}
+
+#f1, #f2, #f3, #hh1, #hh2, #hh3, #p1, #p2, #p3 {
+  font-size: 21px;
+}
+
+
+
